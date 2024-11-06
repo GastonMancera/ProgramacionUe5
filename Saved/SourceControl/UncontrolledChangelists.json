@@ -1,0 +1,15 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Fredo/Desktop/Proyecto Parcial/GastonManceraCom2A/Content/Map/ActividadParcial.umap",
+				"C:/Users/Fredo/Desktop/Proyecto Parcial/GastonManceraCom2A/Content/BluePrint/Weapon/BP_Disparo.uasset",
+				"C:/Users/Fredo/Desktop/Proyecto Parcial/GastonManceraCom2A/Content/BluePrint/Character/BP_OrcoDispara.uasset",
+				"C:/Users/Fredo/Desktop/Proyecto Parcial/GastonManceraCom2A/Content/BluePrint/Character/BP_PaisanoCorre.uasset"
+			]
+		}
+	]
+}
